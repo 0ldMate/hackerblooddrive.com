@@ -3,19 +3,13 @@ title: "Who am I?"
 background: "blood.jpg"
 ---
 
-My name is Josh, however I often go by the name 0ldMate and I work as a pentester based in Sydney. I've been in the security community for a few years now and have soaked up so much knowledge from peers through different community meetups and conferences. I'm now fortunately in a position where I can give back.
+Hey there!
+My name is Josh, but in the Information Security space I'm better known as "0ldMate". I've been passionate about computer security for several years. A huge benefit in my journey was being able to interact with and ask people questions within the community itself. I'm now fortunate enough to be in a position to give back.
 
-I've been passionate about donating blood for a few years now and have been donating plasma regularly every 2 weeks since. I think it's super important and hope to encourage more to donate when possible, as you never know when you might be on the receiving end. I'd like to think with the incentive of a month subscription, it will encourage some hackers be it old or new to donate blood.
-
-This is something I've been thinking about for a while and have no idea how it will be taken. I'm planning on self funding this venture for the forseeable future and have plans to hopefully expand into offering more than just subscriptions depending on how it pans out.
-
-If you've got any questions feel free to reach out.
-
-Thanks for your time!
-
-See you in the chair,
-
-0ldMate
+I'm planning on self-funding this venture to seek out blood, plasma, and platelet donations from the general public. Depending on how that goes, who knows? Maybe we'll expand into something new in the future!
+If you have any questions reach out to me at my email  or on twitter at @0ldMate_
+Thanks for your time,
+Josh
 
 Twitter: [@0ldMate_](https://twitter.com/0ldMate_)
 
