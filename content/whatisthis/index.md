@@ -7,7 +7,7 @@ Hacker Blood Drive was created to incentivise security professionals or people w
 
 **How do I get my free stuff?**
 
-All you need to do is book in to your local [Australian Red Cross Lifeblood centre](https://www.donateblood.com.au/) and donate either whole blood, plasma or platelets. Once you've donated, go ahead and snap a picture of the Lifeblood sign in the centre with a piece of paper with your twitter handle or email address, upload it to imgur, and fill out our google form.
+All you need to do is book in to your local [Australian Red Cross Lifeblood centre](https://www.donateblood.com.au/) and donate either whole blood, plasma or platelets. Once you've donated, go ahead and snap a picture the Lifeblood sign in the centre with a piece of paper with your twitter handle or email address (or some other kind of proof, could be a picture of your bandage, you in the chair, what ever works), upload it to imgur, and fill out our google form.
 
 **What do we get out of it?**
 

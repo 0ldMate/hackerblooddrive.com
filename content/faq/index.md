@@ -6,7 +6,7 @@ background: "blood.jpg"
 1. **Why should I donate?**
 [HERE](https://www.donateblood.com.au/learn) is a brief page with information about donating and why it's so important.
 2. **What do I get for donating?**
-You get to chose between a Pentester Lab subscription or a Hack The Box subscription.
+You get to chose between a Pentester Lab subscription, a Hack The Box subscription or you can opt for the donation to the Red Cross.
 3. **What country can I donate from?**
 At the moment, this is only within Australia.
 4. **Can I donate plasma 2 times a month and therefore consistently have both subscriptions free?**
@@ -19,5 +19,7 @@ These fields are completely optional, it just allows me to hopefully build some 
 This community has given me a lot, I want to give back.
 8. **I have X condition, can I donate?**
 I'm not an employee of Lifeblood, however you can check your eligibility easily using this [QUIZ](https://www.donateblood.com.au/eligibility)
+9. **I've donated, but I don't really want a subscription, but still want to help the cause, what can I do?**
+I've added an option to just make a donation to the Red Cross, or alternatively, grab the subscription and give it away, I'm sure someone will greatly appreciate it on twitter or your preferred platform.
 
-If you have any other questions, please feel free to reach out to me via [twitter](https://twitter.com/0ldMate_).
+If you have any other questions, please feel free to reach out to me via [twitter](https://twitter.com/0ldMate_) or my email blooddrive@0ldmate.com.
